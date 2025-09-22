@@ -18,7 +18,7 @@ I'm currently working on a localized RAG tool that leverages GPT-OSS through Oll
 - **Intelligent Automation**: Automating complex workflows to improve efficiency.
 - **Forecasting**: Predicting future trends and outcomes using various ensemble models.
 - **Recommendation Engines**: Creating personalized suggestions and analyzing relationships within data.
-- **Graph Theory**: Develop solutions to solve for the traveling salesman problem via optimal routings.
+- **Graph Theory**: Developing solutions to solve for the traveling salesman problem via optimal routings.
 - **API Development**: Designing and building robust APIs for seamless data transfer.
 - **Generalized Proof-of-Concept Mapping**: Rapidly prototyping and validating new ideas.
 
