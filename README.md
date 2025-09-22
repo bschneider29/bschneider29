@@ -25,4 +25,4 @@ I'm currently working on a localized RAG tool that leverages GPT-OSS through Oll
 
 ## 📫 How to Reach Me
 
-Let's connect on [[LinkedIn](https://www.linkedin.com/in/bschneider29/).
+Let's connect on [[LinkedIn]](https://www.linkedin.com/in/bschneider29/).
