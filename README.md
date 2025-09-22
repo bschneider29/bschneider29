@@ -11,13 +11,14 @@ I'm currently working on a localized RAG tool that leverages GPT-OSS through Oll
 
 ---
 
-## 💡 Technical Interests
+## 💡 Technical Expertise
 
-### **Previously Completed Project Concepts**
+### **Previously Completed Project Areas**
 - **GenAI**: Building intelligent applications with generative models.
 - **Intelligent Automation**: Automating complex workflows to improve efficiency.
 - **Forecasting**: Predicting future trends using various ensemble models.
 - **Recommendation Engines & Graph Theory**: Creating personalized suggestions and analyzing relationships within data.
+- **Causal Inference**: Hypothesizing actual drivers of quality of earnings for financial due diligence.
 - **API Development**: Designing and building robust APIs for seamless data transfer.
 - **Generalized Proof-of-Concept Mapping**: Rapidly prototyping and validating new ideas.
 
