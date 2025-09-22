@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ben 👋
 
-<!--
-**bschneider29/bschneider29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a Data Scientist in Management Consulting and an Adjunct Professor. Welcome to my Github Version 2.0. I occasionally update my Github with side projects, interesting trials, and lessons learned from my technical experiences. Feel free to follow along and/or connect!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+### **Localized RAG**
+I'm currently working on a localized RAG tool that leverages GPT-OSS through Ollama to interact with Word documents and PDFs, orchestrated by Langchain.
+
+---
+
+## 💡 Technical Interests
+
+### **Previously Completed Project Concepts**
+- **GenAI**: Building intelligent applications with generative models.
+- **Intelligent Automation**: Automating complex workflows to improve efficiency.
+- **Forecasting**: Predicting future trends and outcomes using various ensemble models.
+- **Recommendation Engines**: Creating personalized suggestions and analyzing relationships within data.
+- **Graph Theory**: Develop solutions to solve for the traveling salesman problem via optimal routings.
+- **API Development**: Designing and building robust APIs for seamless data transfer.
+- **Generalized Proof-of-Concept Mapping**: Rapidly prototyping and validating new ideas.
+
+---
+
+## 📫 How to Reach Me
+
+Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bschneider29/).
+
+---
+
